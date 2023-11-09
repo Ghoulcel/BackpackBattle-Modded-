@@ -25,8 +25,8 @@ Due to the obvious flaw with allowing custom skins and skins having trophy costs
 ## How to install skins
 - Run the modded client once (this will allow it to create missing folders for skin storage)
 - Go to your systems local files
-  - Windows : %APPDATA%\Godot\app_userdata\BackpackBattles
-  - Linux : ~/.local/share/godot/app_userdata/BackpackBattles
-  - MacOS : ~/Library/Application Support/Godot/app_userdata/BackpackBattles
+  - Windows : %APPDATA%\Godot\app_userdata\Backpack Battles
+  - Linux : ~/.local/share/godot/app_userdata/Backpack Battles
+  - MacOS : ~/Library/Application Support/Godot/app_userdata/Backpack Battles
 - Place desired .pck skin files in [skins] folder
 - Launch [Backpack Battles Demo]
