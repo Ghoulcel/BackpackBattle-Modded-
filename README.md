@@ -30,3 +30,9 @@ Due to the obvious flaw with allowing custom skins and skins having trophy costs
   - MacOS : ~/Library/Application Support/Godot/app_userdata/Backpack Battles
 - Place desired .pck skin files in [skins] folder
 - Launch [Backpack Battles Demo]
+
+  ## How to create custom skins
+    https://docs.google.com/document/d/1DGAxVgyeZtNhLujBw_xyMREhIv4aW3n4Cs4D9ADZOSU/edit?usp=sharing
+
+  ## My own custom skins
+    https://github.com/Ghoulcel/Ghoulcel-BpB-Skins
