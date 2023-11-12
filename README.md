@@ -2,6 +2,9 @@
 
 Modified version of BackpackBattles to allow the install of custom skins.
 
+![BpBSS](https://github.com/Ghoulcel/BackpackBattle-Modded-/assets/150391748/ba5aaf08-9959-4f75-9ff4-85daf10a2a36)
+
+
 ## Important
 
 ### Updating
